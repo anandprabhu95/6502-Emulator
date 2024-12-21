@@ -1,1 +1,7 @@
 doc/
+.vs/
+Build/
+6502_Emulator/
+6502_Emulator.vcxproj
+6502_Emulator.vcxproj.filters
+6502_Emulator.vcxproj.user
